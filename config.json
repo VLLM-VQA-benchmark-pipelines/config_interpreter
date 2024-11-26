@@ -1,0 +1,11 @@
+{
+    "datasets": {
+        "DocVQAmini": "/datasets/docvqamini.txt",
+        "TextVQA": "/datasets/textvqa.txt"
+    },
+    "models": {
+        "Qwen2-VL-2b": "/models/qwen2vl2b.txt",
+        "MiniCPM": "/models/minicom.txt"
+    },
+    "metrics": ["WER", "CER", "BLEU"]
+}
