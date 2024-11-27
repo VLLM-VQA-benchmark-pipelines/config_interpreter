@@ -5,3 +5,299 @@
 2024-11-27 00:46:26,649 - INFO - Config validation error: 1 is not of type 'string'
 2024-11-27 01:01:10,947 - INFO - Valid configuration
 2024-11-27 01:01:10,948 - INFO - The program has completed execution
+2024-11-27 01:09:42,310 - INFO - Valid configuration
+2024-11-27 01:09:42,310 - INFO - The program has completed execution
+2024-11-27 01:12:03,046 - INFO - Valid configuration
+2024-11-27 01:12:03,046 - INFO - The program has completed execution
+2024-11-27 22:52:51,052 - INFO - Конфигурация загружена из файла: config.json
+2024-11-27 22:54:09,824 - INFO - Конфигурация загружена из файла: config.json
+2024-11-27 23:41:11,512 - INFO - Ошибка при загрузке конфигурации: 'JSONParser' object has no attribute 'file_path'
+2024-11-27 23:42:08,624 - INFO - Конфигурация загружена из файла: config.json
+2024-11-27 23:42:33,076 - INFO - Конфигурация загружена из файла: config.json
+2024-11-27 23:42:43,607 - INFO - Конфигурация загружена из файла: config.json
+2024-11-27 23:43:18,751 - INFO - Ошибка при загрузке конфигурации: Expecting ',' delimiter: line 11 column 1 (char 269)
+2024-11-27 23:43:37,324 - INFO - Конфигурация загружена из файла: config.json
+2024-11-27 23:43:37,326 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-27 23:43:37,326 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-27 23:45:59,127 - INFO - Конфигурация загружена из файла: config.json
+2024-11-27 23:46:54,557 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:00:53,865 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:01:07,521 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:01:48,107 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:04:12,809 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:05:45,919 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:06:36,254 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:06:59,436 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:08:22,184 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:09:20,460 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:45:17,413 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:45:26,094 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:45:40,296 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:55:12,688 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:55:21,204 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:58:33,682 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:59:18,616 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 00:59:32,941 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:00:16,832 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:00:45,834 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:02:39,552 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:02:45,008 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:03:17,699 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:03:47,525 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:04:33,666 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:04:48,528 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:05:08,060 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:05:38,407 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:05:56,249 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:06:21,202 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:06:51,137 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:07:51,867 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:09:08,236 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:09:23,068 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:09:32,934 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:10:03,958 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:12:00,795 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:18:31,768 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:18:31,772 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:18:31,773 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:18:31,774 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:18:31,774 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:19:30,646 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:19:30,648 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:19:30,649 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:19:30,650 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:19:30,651 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:19:44,332 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:19:44,334 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:19:44,335 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:19:44,336 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:19:44,336 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:26:48,697 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:26:48,699 - INFO - В процессе обработки: датасет - DocVQAmini, модель  Qwen2-VL-2b
+2024-11-28 01:26:48,700 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:26:48,700 - INFO - В процессе обработки: датасет - DocVQAmini, модель  MiniCPM
+2024-11-28 01:26:48,700 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:26:48,701 - INFO - В процессе обработки: датасет - TextVQA, модель  Qwen2-VL-2b
+2024-11-28 01:26:48,701 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:26:48,701 - INFO - В процессе обработки: датасет - TextVQA, модель  MiniCPM
+2024-11-28 01:26:48,701 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:26:55,745 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:26:55,747 - INFO - В процессе обработки: датасет - DocVQAmini, модель  Qwen2-VL-2b
+2024-11-28 01:26:55,747 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:26:55,747 - INFO - В процессе обработки: датасет - DocVQAmini, модель  MiniCPM
+2024-11-28 01:26:55,748 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:26:55,748 - INFO - В процессе обработки: датасет - TextVQA, модель  Qwen2-VL-2b
+2024-11-28 01:26:55,748 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:26:55,748 - INFO - В процессе обработки: датасет - TextVQA, модель  MiniCPM
+2024-11-28 01:26:55,749 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:27:15,344 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:27:15,349 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:27:15,349 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:27:15,350 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:27:15,351 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:29:23,849 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 01:29:23,851 - INFO - Процесс обработки: датасет - DocVQAmini, модель -  Qwen2-VL-2b
+2024-11-28 01:29:23,852 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:29:23,852 - INFO - Процесс обработки: датасет - DocVQAmini, модель -  MiniCPM
+2024-11-28 01:29:23,853 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:29:23,853 - INFO - Процесс обработки: датасет - TextVQA, модель -  Qwen2-VL-2b
+2024-11-28 01:29:23,853 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:29:23,853 - INFO - Процесс обработки: датасет - TextVQA, модель -  MiniCPM
+2024-11-28 01:29:23,854 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 01:30:19,426 - INFO - Ошибка при загрузке конфигурации: log_and_print() takes 1 positional argument but 2 were given
+2024-11-28 01:32:42,565 - INFO - Ошибка при загрузке конфигурации: log_and_print() takes 1 positional argument but 2 were given
+2024-11-28 01:36:25,228 - INFO - Ошибка при загрузке конфигурации: log_and_print() takes 1 positional argument but 2 were given
+2024-11-28 01:37:18,629 - INFO - Ошибка при загрузке конфигурации: TypeError
+2024-11-28 01:38:36,512 - INFO - Ошибка при загрузке конфигурации: <class 'TypeError'>
+2024-11-28 01:38:50,700 - INFO - Ошибка при загрузке конфигурации: log_and_print() takes 1 positional argument but 2 were given
+2024-11-28 01:44:33,935 - INFO - Ошибка при загрузке конфигурации: [Errno 2] No such file or directory: 'confыig.json'
+2024-11-28 01:45:11,985 - INFO - Ошибка при загрузке конфигурации: [Errno 2] No such file or directory: 'confыig.json'
+2024-11-28 01:47:04,629 - INFO - Ошибка при загрузке конфигурации: [Errno 2] No such file or directory: 'confыig.json'
+2024-11-28 01:48:27,406 - INFO - Ошибка при загрузке конфигурации: [Errno 2] No such file or directory: 'confыig.json'
+2024-11-28 01:50:02,830 - INFO - Ошибка при загрузке конфигурации: [Errno 2] No such file or directory: 'confыig.json'
+2024-11-28 01:50:52,644 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 01:50:52,645 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 01:51:22,669 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 01:51:22,670 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 01:52:24,134 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 01:52:24,134 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 01:52:47,432 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 01:53:04,862 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 01:54:03,423 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 01:54:10,430 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 01:54:31,130 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 01:54:31,130 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 01:54:44,712 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 01:54:44,712 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 01:54:52,933 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 01:54:52,933 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 01:55:59,228 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 01:55:59,228 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 01:56:06,410 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 01:56:06,410 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 01:56:38,412 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 01:56:38,412 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 01:57:07,549 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 01:57:07,549 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 01:58:23,841 - INFO - Ошибка при загрузке конфигурации: [Errno 2] No such file or directory: 'config.jsdon'
+2024-11-28 01:59:41,629 - INFO - Ошибка при загрузке конфигурации: log_and_print() takes 1 positional argument but 2 were given
+2024-11-28 02:00:56,697 - INFO - Ошибка при загрузке конфигурации: log_and_print() takes 1 positional argument but 2 were given
+2024-11-28 02:02:19,722 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:02:56,525 - INFO - Ошибка при загрузке конфигурации: [Errno 2] No such file or directory: 'confsig.json'
+2024-11-28 02:03:43,960 - INFO - Ошибка при загрузке конфигурации: [Errno 2] No such file or directory: 'codnfig.json'
+2024-11-28 02:04:26,581 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 02:04:26,581 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:05:27,003 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 02:05:27,003 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 02:06:04,368 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 02:06:04,369 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:06:11,158 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 02:06:11,158 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 02:07:35,922 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 02:07:35,922 - INFO - Ошибка при загрузке конфигурации: Config validation error: 1 is not of type 'string'
+2024-11-28 02:08:29,548 - INFO - Config validation error: 1 is not of type 'string'
+2024-11-28 02:08:29,548 - INFO - Ошибка при загрузке конфигурации: 1 is not of type 'string'
+
+Failed validating 'type' in schema['properties']['datasets']['additionalProperties']:
+    {'type': 'string'}
+
+On instance['datasets']['TextVQA']:
+    1
+2024-11-28 02:10:02,278 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:10:15,848 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:11:20,093 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:11:56,920 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:11:56,922 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:11:56,922 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:11:56,923 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:11:56,923 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:12:08,098 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:12:08,099 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:12:08,100 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:12:08,100 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:12:08,101 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:12:51,428 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:12:51,429 - INFO - Процесс обработки: датасет - DocVQAmini, модель - Qwen2-VL-2b
+2024-11-28 02:12:51,429 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:12:51,429 - INFO - Процесс обработки: датасет - DocVQAmini, модель - MiniCPM
+2024-11-28 02:12:51,430 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:12:51,430 - INFO - Процесс обработки: датасет - TextVQA, модель - Qwen2-VL-2b
+2024-11-28 02:12:51,431 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:12:51,431 - INFO - Процесс обработки: датасет - TextVQA, модель - MiniCPM
+2024-11-28 02:12:51,431 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:14:25,349 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:14:25,349 - INFO - Процесс обработки: датасет - DocVQAmini, модель - Qwen2-VL-2b
+2024-11-28 02:14:25,349 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:14:25,350 - INFO - Процесс обработки: датасет - DocVQAmini, модель - MiniCPM
+2024-11-28 02:14:25,351 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:14:25,351 - INFO - Процесс обработки: датасет - TextVQA, модель - Qwen2-VL-2b
+2024-11-28 02:14:25,351 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:14:25,351 - INFO - Процесс обработки: датасет - TextVQA, модель - MiniCPM
+2024-11-28 02:14:25,352 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:15:05,706 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:15:05,706 - INFO - Процесс обработки: датасет - DocVQAmini, модель - Qwen2-VL-2b
+2024-11-28 02:15:05,707 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:15:05,726 - INFO - Процесс обработки: датасет - DocVQAmini, модель - MiniCPM
+2024-11-28 02:15:05,727 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:15:05,754 - INFO - Процесс обработки: датасет - TextVQA, модель - Qwen2-VL-2b
+2024-11-28 02:15:05,755 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:15:05,781 - INFO - Процесс обработки: датасет - TextVQA, модель - MiniCPM
+2024-11-28 02:15:05,781 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:15:49,770 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:15:49,770 - INFO - Датасет - DocVQAmini
+модель - Qwen2-VL-2b
+2024-11-28 02:15:49,771 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:15:49,796 - INFO - Датасет - DocVQAmini
+модель - MiniCPM
+2024-11-28 02:15:49,797 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:15:49,823 - INFO - Датасет - TextVQA
+модель - Qwen2-VL-2b
+2024-11-28 02:15:49,823 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:15:49,848 - INFO - Датасет - TextVQA
+модель - MiniCPM
+2024-11-28 02:15:49,849 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:15:57,090 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:15:57,090 - INFO - Датасет - DocVQAmini
+модель - Qwen2-VL-2b
+
+2024-11-28 02:15:57,090 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:15:57,121 - INFO - Датасет - DocVQAmini
+модель - MiniCPM
+
+2024-11-28 02:15:57,121 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:15:57,148 - INFO - Датасет - TextVQA
+модель - Qwen2-VL-2b
+
+2024-11-28 02:15:57,148 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:15:57,174 - INFO - Датасет - TextVQA
+модель - MiniCPM
+
+2024-11-28 02:15:57,175 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:16:09,094 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:16:09,094 - INFO - 
+Датасет - DocVQAmini
+модель - Qwen2-VL-2b
+2024-11-28 02:16:09,095 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:16:09,120 - INFO - 
+Датасет - DocVQAmini
+модель - MiniCPM
+2024-11-28 02:16:09,121 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:16:09,147 - INFO - 
+Датасет - TextVQA
+модель - Qwen2-VL-2b
+2024-11-28 02:16:09,147 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:16:09,173 - INFO - 
+Датасет - TextVQA
+модель - MiniCPM
+2024-11-28 02:16:09,173 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:16:27,444 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:16:27,445 - INFO - 
+Датасет - DocVQAmini
+Модель - Qwen2-VL-2b
+2024-11-28 02:16:27,445 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:16:27,471 - INFO - 
+Датасет - DocVQAmini
+Модель - MiniCPM
+2024-11-28 02:16:27,472 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:16:27,497 - INFO - 
+Датасет - TextVQA
+Модель - Qwen2-VL-2b
+2024-11-28 02:16:27,498 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:16:27,523 - INFO - 
+Датасет - TextVQA
+Модель - MiniCPM
+2024-11-28 02:16:27,524 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:16:41,566 - INFO - Конфигурация загружена из файла: config.json
+2024-11-28 02:16:41,566 - INFO - 
+Датасет: DocVQAmini
+Модель: Qwen2-VL-2b
+2024-11-28 02:16:41,567 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:16:41,594 - INFO - 
+Датасет: DocVQAmini
+Модель: MiniCPM
+2024-11-28 02:16:41,595 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:16:41,619 - INFO - 
+Датасет: TextVQA
+Модель: Qwen2-VL-2b
+2024-11-28 02:16:41,620 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:16:41,646 - INFO - 
+Датасет: TextVQA
+Модель: MiniCPM
+2024-11-28 02:16:41,647 - INFO - Данные записаны в файл: params.yaml
+2024-11-28 02:20:03,182 - INFO - Configuration loaded from file: config.json
+2024-11-28 02:20:03,183 - INFO - 
+Dataset: DocVQAmini
+Model: Qwen2-VL-2b
+2024-11-28 02:20:03,184 - INFO - Params write to: params.yaml
+2024-11-28 02:20:03,210 - INFO - 
+Dataset: DocVQAmini
+Model: MiniCPM
+2024-11-28 02:20:03,211 - INFO - Params write to: params.yaml
+2024-11-28 02:20:03,238 - INFO - 
+Dataset: TextVQA
+Model: Qwen2-VL-2b
+2024-11-28 02:20:03,238 - INFO - Params write to: params.yaml
+2024-11-28 02:20:03,263 - INFO - 
+Dataset: TextVQA
+Model: MiniCPM
+2024-11-28 02:20:03,264 - INFO - Params write to: params.yaml
