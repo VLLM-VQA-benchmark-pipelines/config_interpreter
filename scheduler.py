@@ -148,9 +148,10 @@ class BenchmarkScheduler():
         """      
         for dataset_name, dataset_path in zip(self.datasets.keys(), self.datasets.values()):
             for model_name, model_path in zip(self.models.keys(), self.models.values()):
-                log_and_print(f"\nDataset: {dataset_name}\nModel: {model_name}")
+                log_and_print(f"---> In process: {dataset_name} | {model_name}")
                 self.update_params_yaml(dataset_name, model_name)
                 os.system("dvc repro")
+                # break
         
     
 
